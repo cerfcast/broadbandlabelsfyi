@@ -8,8 +8,6 @@ layout: home
 
 | Provider | Label URL |
 | --- | --- |
-{% for info in site.data.locations -%}
-{{ info.provider }} | {{info.link}} |
+{%- for info in site.data.locations %}
+| {{ info.provider }} | {{ info.link }} |
 {%- endfor -%}
-
-
