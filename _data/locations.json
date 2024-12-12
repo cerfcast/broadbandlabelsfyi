@@ -2,5 +2,9 @@
 				{
 								"provider": "altafiber",
 								"link": "https://www.altafiber.com/displaylabels"
+				},
+				{
+								"provider": "Spectrum",
+								"link": "https://www.spectrum.net/support/internet/spectrum-broadband-labels"
 				}
 ]
