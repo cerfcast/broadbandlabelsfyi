@@ -6,5 +6,9 @@
 				{
 								"provider": "Spectrum",
 								"link": "https://www.spectrum.net/support/internet/spectrum-broadband-labels"
+				},
+				{
+								"provider": "Country Wireless (Fiber Internet)",
+								"link": "http://countrywireless.com/index.php/fiberinternet/"
 				}
 ]
