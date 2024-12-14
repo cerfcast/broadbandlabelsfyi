@@ -10,5 +10,9 @@
 				{
 								"provider": "Country Wireless (Fiber Internet)",
 								"link": "http://countrywireless.com/index.php/fiberinternet/"
-				}
+				},
+				{
+								"provider": "Ting",
+								"link": "https://www.ting.com/nutrition-label"
+				},
 ]
