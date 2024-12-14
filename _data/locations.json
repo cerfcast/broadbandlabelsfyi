@@ -4,15 +4,15 @@
 								"link": "https://www.altafiber.com/displaylabels"
 				},
 				{
-								"provider": "Spectrum",
-								"link": "https://www.spectrum.net/support/internet/spectrum-broadband-labels"
-				},
-				{
 								"provider": "Country Wireless (Fiber Internet)",
 								"link": "http://countrywireless.com/index.php/fiberinternet/"
 				},
 				{
+								"provider": "Spectrum",
+								"link": "https://www.spectrum.net/support/internet/spectrum-broadband-labels"
+				},
+				{
 								"provider": "Ting",
 								"link": "https://www.ting.com/nutrition-label"
-				},
+				}
 ]
