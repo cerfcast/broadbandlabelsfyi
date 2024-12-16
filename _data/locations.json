@@ -8,6 +8,10 @@
 								"link": "http://countrywireless.com/index.php/fiberinternet/"
 				},
 				{
+								"provider": "Frontier",
+								"link": "https://frontier.com/consumerlabels"
+				},
+				{
 								"provider": "Spectrum",
 								"link": "https://www.spectrum.net/support/internet/spectrum-broadband-labels"
 				},
