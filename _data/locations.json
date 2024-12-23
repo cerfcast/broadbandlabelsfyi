@@ -1,22 +1,27 @@
 [
 				{
 								"provider": "altafiber",
-								"link": "https://www.altafiber.com/displaylabels"
+								"purl": "https://www.altafiber.com/",
+								"blurl": "https://www.altafiber.com/displaylabels"
 				},
 				{
 								"provider": "Country Wireless (Fiber Internet)",
-								"link": "http://countrywireless.com/index.php/fiberinternet/"
+								"purl": "https://www.altafiber.com/",
+								"blurl": "http://countrywireless.com/index.php/fiberinternet/"
 				},
 				{
 								"provider": "Frontier",
-								"link": "https://frontier.com/consumerlabels"
+								"purl": "https://www.frontier.com/",
+								"blurl": "https://frontier.com/consumerlabels"
 				},
 				{
 								"provider": "Spectrum",
-								"link": "https://www.spectrum.net/support/internet/spectrum-broadband-labels"
+								"purl": "https://www.spectrum.net/",
+								"blurl": "https://www.spectrum.net/support/internet/spectrum-broadband-labels"
 				},
 				{
 								"provider": "Ting",
-								"link": "https://www.ting.com/nutrition-label"
+								"purl": "https://www.ting.com/",
+								"blurl": "https://www.ting.com/nutrition-label"
 				}
 ]
