@@ -19,13 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Broadband Labels FYI
-email: hawkinsw@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Broadband Labels were hard to find -- not anymore.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+twitter_username: cerfcast
+github_username:  cerfcast
 
 # Build settings
 theme: minima
