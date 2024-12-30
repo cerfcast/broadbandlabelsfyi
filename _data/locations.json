@@ -30,6 +30,16 @@
 								"blurl": "https://www.netnv.net/residentialform"
 				},
 				{
+								"provider": "Plumas-Sierra Telecommunications (Business Internet)",
+								"purl": "https://www.plumassierratelecommunications.com/",
+								"blurl": "https://www.plumassierratelecommunications.com/services/business/"
+				},
+				{
+								"provider": "Plumas-Sierra Telecommunications (Residential Internet)",
+								"purl": "https://www.plumassierratelecommunications.com/",
+								"blurl": "https://www.plumassierratelecommunications.com/services/residential/"
+				},
+				{
 								"provider": "Spectrum",
 								"purl": "https://www.spectrum.net/",
 								"blurl": "https://www.spectrum.net/support/internet/spectrum-broadband-labels"
