@@ -23,5 +23,10 @@
 								"provider": "Ting",
 								"purl": "https://www.ting.com/",
 								"blurl": "https://www.ting.com/nutrition-label"
+				},
+				{
+								"provider": "Union Wireless",
+								"purl": "https://www.unionwireless.com/",
+								"blurl": "https://www.unionwireless.com/NutritionBlockAdmin/DownloadNutritionBlockCsv?Namespaces=Nop.Plugin.UnionWireless.NutritionBlock.Controllers&enabled=False"
 				}
 ]
