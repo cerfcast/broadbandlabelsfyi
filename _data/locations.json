@@ -15,6 +15,16 @@
 								"blurl": "https://frontier.com/consumerlabels"
 				},
 				{
+								"provider": "Mountain West Technologies (Speedgoat)",
+								"purl": "https://www.mwtn.net/",
+								"blurl": "https://www.mwtn.net/speedgoat-internet"
+				},
+				{
+								"provider": "Mountain West Technologies (Speedgoat Business Internet)",
+								"purl": "https://www.mwtn.net/",
+								"blurl": "https://www.mwtn.net/speedgoat-business-internet"
+				},
+				{
 								"provider": "Spectrum",
 								"purl": "https://www.spectrum.net/",
 								"blurl": "https://www.spectrum.net/support/internet/spectrum-broadband-labels"
