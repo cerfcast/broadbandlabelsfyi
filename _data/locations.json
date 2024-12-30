@@ -25,6 +25,11 @@
 								"blurl": "https://www.mwtn.net/speedgoat-business-internet"
 				},
 				{
+								"provider": "Net NV (Residential Internet)",
+								"purl": "https://www.netnv.net/",
+								"blurl": "https://www.netnv.net/residentialform"
+				},
+				{
 								"provider": "Spectrum",
 								"purl": "https://www.spectrum.net/",
 								"blurl": "https://www.spectrum.net/support/internet/spectrum-broadband-labels"
