@@ -40,6 +40,11 @@
 								"blurl": "https://www.plumassierratelecommunications.com/services/residential/"
 				},
 				{
+								"provider": "Quantum Fiber",
+								"purl": "https://www.quantumfiber.com/",
+								"blurl": "https://www.quantumfiber.com/support/internet-essentials/basics/broadband-label.html"
+				},
+				{
 								"provider": "Spectrum",
 								"purl": "https://www.spectrum.net/",
 								"blurl": "https://www.spectrum.net/support/internet/spectrum-broadband-labels"
