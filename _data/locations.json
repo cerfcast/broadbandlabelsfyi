@@ -50,6 +50,11 @@
 								"blurl": "https://www.spectrum.net/support/internet/spectrum-broadband-labels"
 				},
 				{
+								"provider": "TDS Telecom",
+								"purl": "https://tdstelecom.com/",
+								"blurl": "https://broadbandlabels.prod.apigw.tds.net/broadband_labels/download/"
+				},
+				{
 								"provider": "Ting",
 								"purl": "https://www.ting.com/",
 								"blurl": "https://www.ting.com/nutrition-label"
