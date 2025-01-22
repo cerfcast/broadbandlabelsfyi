@@ -15,6 +15,11 @@
 								"blurl": "https://frontier.com/consumerlabels"
 				},
 				{
+								"provider": "Hotwire (Fision)",
+								"purl": "https://gethotwired.com/",
+								"blurl": "https://gethotwired.com/fcc"
+				},
+				{
 								"provider": "Mountain West Technologies (Speedgoat)",
 								"purl": "https://www.mwtn.net/",
 								"blurl": "https://www.mwtn.net/speedgoat-internet"
