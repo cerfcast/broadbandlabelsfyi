@@ -5,6 +5,11 @@
 								"blurl": "https://www.altafiber.com/displaylabels"
 				},
 				{
+								"provider": "Cimarron Telecommunications (Satellite)",
+								"purl": "https://www.cimarrontelecommunications.com/",
+								"blurl": "https://www.cimarrontelecommunications.com/internet/#satellite"
+				},
+				{
 								"provider": "Country Wireless (Fiber Internet)",
 								"purl": "https://www.altafiber.com/",
 								"blurl": "http://countrywireless.com/index.php/fiberinternet/"
