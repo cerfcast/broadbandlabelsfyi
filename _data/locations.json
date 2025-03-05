@@ -25,6 +25,11 @@
 								"blurl": "https://gethotwired.com/fcc"
 				},
 				{
+								"provider": "KWIKOM",
+								"purl": "https://www.kwikom.com/",
+								"blurl": "https://www.kwikom.com/internet-broadband-labels/"
+				},
+				{
 								"provider": "Mountain West Technologies (Speedgoat)",
 								"purl": "https://www.mwtn.net/",
 								"blurl": "https://www.mwtn.net/speedgoat-internet"
