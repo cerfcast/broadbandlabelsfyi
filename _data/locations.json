@@ -78,5 +78,10 @@
 								"provider": "Union Wireless",
 								"purl": "https://www.unionwireless.com/",
 								"blurl": "https://www.unionwireless.com/NutritionBlockAdmin/DownloadNutritionBlockCsv?Namespaces=Nop.Plugin.UnionWireless.NutritionBlock.Controllers&enabled=False"
+				},
+				{
+								"provider": "Xfinity",
+								"purl": "https://www.xfinity.com/",
+								"blurl": "https://www.xfinity.com/broadband-labels"
 				}
 ]
