@@ -8,7 +8,7 @@ In the same way that the information on nutrition labels is part of what makes a
 
 [^fcc1]: “Broadband Consumer Labels.” 2022. Federal Communications Commission. February 23, 2022. https://www.fcc.gov/broadbandlabels.
 
-After more than 15 years of advocacy,[^over] the vision of [Sascha Meinrath](https://www.bellisario.psu.edu/people/individual/sascha-meinrath), who originally championed the idea of broadband nutrition labels with this colleagues at [New America](https://www.newamerica.org/), has become reality. 
+After more than 15 years of advocacy,[^over] the vision of [Sascha Meinrath](https://www.bellisario.psu.edu/people/individual/sascha-meinrath), who originally championed the idea of broadband nutrition labels with his colleagues at [New America](https://www.newamerica.org/), has become reality. 
 
 [^over]: "Faculty Member’s Wait for Broadband Labels Finally Ends." 2024. Psu.edu. 2024. https://communicator.bellisario.psu.edu/article/faculty-members-wait-for-broadband-labels-finally-ends.
 
