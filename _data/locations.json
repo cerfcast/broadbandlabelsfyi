@@ -83,5 +83,10 @@
 								"provider": "Xfinity",
 								"purl": "https://www.xfinity.com/",
 								"blurl": "https://www.xfinity.com/broadband-labels"
+				},
+				{
+								"provider": "Verizon",
+								"purl": "https://www.verizon.com/",
+								"blurl": "https://www.verizon.com/about/broadband-facts"
 				}
 ]
